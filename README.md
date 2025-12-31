@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amertawolj&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
