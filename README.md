@@ -11,7 +11,7 @@ Currently i am second year Information System and Technology</b> student at <b>I
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,dart" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tailwind,git,dart" />
   </a>
 </p>
 
