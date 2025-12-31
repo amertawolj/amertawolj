@@ -4,4 +4,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amertawolj/amertawolj/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git" />
+  </a>
+</p>
