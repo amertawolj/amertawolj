@@ -4,8 +4,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amertawolj/amertawolj/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amertawolj&layout=compact&theme=radical" />
+<p align="left">
+  Halo! I'm Amerta, an <b>Information System and Technology</b> student at <b>Institut Teknologi Bandung</b>. Aku <i>lowkey</i> suka building things (((kalo ada waktu))) dan karena aku masih newbie, aku fokus belajar sambil ngerjain projekan hehe. 
+</p>
+
+### 🤝 Let's Connect!
+<p align="left">
+<a href="www.linkedin.com/in/wa-ode-amerta-lambelu-jamaluddin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="mailto:waodeamerta1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="bit.ly/PortfolioAmerrrr" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
