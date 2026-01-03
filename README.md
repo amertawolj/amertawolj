@@ -4,9 +4,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amertawolj/amertawolj/output/pacman-contribution-graph.svg">
 </picture>
 
-### Halo! I'm Amerta 👋
+### Halo! I'm Amerta :D
 <p align="left">
-Currently i am second year Information System and Technology</b> student at <b>Institut Teknologi Bandung</b>. I <i>lowkey</i> love building things (((whenever I've got the time))) and since I'm a #LONGLIFELEARNER (((newbie))), I'm basically learning and exploring things by doing projects hehe :D.
+Currently i am second year Information System and Technology</b> student at <b>Institut Teknologi Bandung</b>. I have an interest in UI/UX development but at the same time I lowkey love building things (((whenever I've got the time))) and since I'm a #LONGLIFELEARNER (((newbie))), I'm basically learning and exploring things by doing projects hehe :D.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Currently i am second year Information System and Technology</b> student at <b>I
   </a>
 </p>
 
-### 🤝 Feel Free to Connect!
+### Feel Free to Connect :3
 <p align="center">
   <a href="https://www.linkedin.com/in/wa-ode-amerta-lambelu-jamaluddin" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
