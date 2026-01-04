@@ -6,7 +6,7 @@
 
 ### Halo! I'm Amerta :D
 <p align="left">
-Currently i am second year Information System and Technology</b> student at <b>Institut Teknologi Bandung</b>. I have an interest in UI/UX development but at the same time I lowkey love building things (((whenever I've got the time))). Since I'm a #LONGLIFELEARNER (((newbie))), I'm basically learning and exploring things by doing projects hehe :D.
+Currently I'm a second year Information System and Technology student at Institut Teknologi Bandung. I have an interest in UI/UX development but at the same time I lowkey love building things (((whenever I've got the time))). Since I'm a #LONGLIFELEARNER (((still figuring things out ><))), I'm basically learning and exploring things by doing projects hehe :D.
 </p>
 
 <p align="center">
