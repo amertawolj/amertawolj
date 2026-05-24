@@ -26,7 +26,7 @@ Currently I'm a second year Information System and Technology student at Institu
   <a href="mailto:waodeamerta1@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://bit.ly/PortfolioAmerrrr" target="blank">
+  <a href="https://itsamerta.vercel.app" target="blank">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
